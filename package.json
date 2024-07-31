@@ -15,7 +15,7 @@
   "main": "./lib/index.js",
   "module": "./lib/index.mjs",
   "files": [
-    "/lib"
+    "./lib"
   ],
   "publishConfig": {
     "access": "public"
