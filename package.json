@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jsonhero-io/json-schema-fns.git"
+    "url": "https://github.com/dariusk/json-schema-fns.git"
   },
   "exports": "./lib/index.js",
   "types": "lib/index.d.ts",
